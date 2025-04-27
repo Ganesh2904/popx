@@ -8,8 +8,8 @@ function Profile() {
       </div>
       <div className="profile-content">
         <div>
-          <img src="public/assets/Ellipse 114.png" id="profile-image" />
-          <img src="public/assets/Group 1585@2x.png" id="camera" />
+          <img src="/assets/Ellipse 114.png" id="profile-image" />
+          <img src="/assets/Group 1585@2x.png" id="camera" />
         </div>
         <div>
           <h2>Marry Doe</h2>
